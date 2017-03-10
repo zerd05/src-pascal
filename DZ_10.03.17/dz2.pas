@@ -1,3 +1,5 @@
+{* Даны 2 числа, вывести порядковой номер меньшего из них
+    *}
 program zzz;
 var num1,num2:integer;
 begin
