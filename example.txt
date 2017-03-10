@@ -1,2 +1,1 @@
-fpc *filename*.pas //to compile
-touch *filename* //to create file
+touch *filename*
