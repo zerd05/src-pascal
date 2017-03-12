@@ -4,7 +4,7 @@
 program zzz;
 var num1,num2:integer;
 begin
-writeln('');
+writeln('введите два числа');
 readln(num1,num2);
 if num1>num2 then
 writeln('(2)второе число меньше')
