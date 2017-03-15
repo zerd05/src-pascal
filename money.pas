@@ -1,5 +1,5 @@
 program zzz;
-var money,kopeyka,kopeyki,kopeek:integer;
+var money:integer;
 
 begin
 readln(money);
